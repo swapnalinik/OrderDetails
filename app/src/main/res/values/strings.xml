@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Retrofit</string>
+    <string name="items">ITEMS</string>
+    <string name="rest_name">xyz</string>
+    <string name="rest_loc">xyzs</string>
+    <string name="ordered_on">ORDERED ON</string>
+    <string name="more_details">MORE DETAILS</string>
+    <string name="pear">peAR</string>
+    <string name="search_view">Search View</string>
+</resources>
